@@ -1,31 +1,5 @@
-.profile-image-wrapper img{
-    width:600px;
-}
 
-.profile-image-wrapper {
-    width:50%;
-    float:left;
-    padding-top: 40px;
-}
-
-.profile-content-wrapper {
-    width:50%;
-    float:right;
-    font-family:Arial, Helvetica, sans-serif;
-}
-
- h1{
-    color:lightseagreen;
-    font-size:24px;
-    font-weight:900;
-    text-align:center;
-}
-
-ol li {
-    margin:20px;
-}
-
-.our-content {
+.our-content, .profile-content-wrapper ol li {
     font-family: 'Raleway', sans-serif;
     line-height: 2.5em; 
     font-weight: 300;
